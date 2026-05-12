@@ -1,4 +1,4 @@
-# 
+# Microsoft To Do for Windows smart Extension: gantt-charts & kanban-boards offers the most advanced Microsoft To Do for Windows extension, with gantt-charts and kanban-boards.
 
 
 
